@@ -1,4 +1,2 @@
 #!/bin/bash
 ls -l
-chmod u+x
-chmod u+x
