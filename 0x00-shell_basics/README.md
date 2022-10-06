@@ -1,1 +1,2 @@
-Task 1. What’s in there?
+Display current directory contents, including hidden files (starting with .). Use the long format
+ Task 4. Hidden files
